@@ -50,6 +50,15 @@
         .auto-style21 {
             height: 34px;
         }
+        .auto-style22 {
+            width: 237px;
+        }
+        .auto-style23 {
+            width: 661px;
+        }
+        .auto-style24 {
+            width: 46px;
+        }
     </style>
 </head>
 <body>
@@ -168,10 +177,10 @@
                 <td class="auto-style14">&nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style20">&nbsp;</td>
-                <td class="auto-style17">&nbsp;</td>
-                <td class="auto-style14">&nbsp;</td>
-                <td class="auto-style14">&nbsp;</td>
+                <td class="auto-style22"></td>
+                <td class="auto-style23"></td>
+                <td class="auto-style24"></td>
+                <td class="auto-style24"></td>
             </tr>
             <tr>
                 <td class="auto-style20">&nbsp;</td>

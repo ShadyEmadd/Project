@@ -32,10 +32,10 @@
                         <asp:HyperLink ID="HyperLink6" runat="server" Font-Bold="True" Font-Names="Arial Black" Font-Size="X-Large" ForeColor="#0000CC">Change password</asp:HyperLink>
                     </td>
                     <td>
-                        <asp:HyperLink ID="HyperLink7" runat="server" Font-Bold="True" Font-Names="Arial Black" Font-Size="X-Large" ForeColor="#0000CC">SignIn</asp:HyperLink>
+                        <asp:HyperLink ID="HyperLink7" runat="server" Font-Bold="True" Font-Names="Arial Black" Font-Size="X-Large" ForeColor="#0000CC" NavigateUrl="~/signin.aspx" Target="_blank">SignIn</asp:HyperLink>
                     </td>
                     <td>
-                        <asp:HyperLink ID="HyperLink8" runat="server" Font-Bold="True" Font-Names="Arial Black" Font-Size="X-Large" ForeColor="#0000CC" NavigateUrl="~/signup.aspx">SignUp</asp:HyperLink>
+                        <asp:HyperLink ID="HyperLink8" runat="server" Font-Bold="True" Font-Names="Arial Black" Font-Size="X-Large" ForeColor="#0000CC" NavigateUrl="~/signup.aspx" Target="_blank">SignUp</asp:HyperLink>
                     </td>
                 </tr>
             </table>
